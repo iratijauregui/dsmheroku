@@ -1,0 +1,27 @@
+{
+  "name": "dsmchatfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "mongoose": "^4.9.5",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iratijauregui/dsmheroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iratijauregui/dsmheroku/issues"
+  },
+  "homepage": "https://github.com/iratijauregui/dsmheroku#readme"
+}
